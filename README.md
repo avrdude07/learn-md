@@ -65,5 +65,5 @@ Use the `postman` to test API.
 
 Enter the `URL` in the postman endpoint bar, and press Send.
 ##
-- [x] 5. Can do store search by store name, address, phone number #739
+- [x] #739 5. Can do store search by store name, address, phone number 
 
