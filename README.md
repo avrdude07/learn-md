@@ -28,26 +28,43 @@ Enter the `URL` in the postman endpoint bar, and press Send.
 ```
 
 - [x] Can display a list of existing stores :tada:
+
+`Request on GET Endpoint`
+Here, we have one `API` which is used to `get all list of store`:
 Use the `postman` to test API.
--`POST`
+
+-`GET`
 ```sh
   localhost:8080/tokonyadia/store
 ```
+
+Enter the `URL` in the postman endpoint bar, and press Send.
+
 - [x] Can delete shop :tada:
+
+`Request on DELETE Endpoint`
+Here, we have one `API` which is used to `delete a strore`:
 Use the `postman` to test API.
--`POST`
+
+-`DELETE`
 ```sh
-  localhost:8080/tokonyadia/store
+  localhost:8080/tokonyadia/store/{id}
 ```
+
+Enter the `URL` in the postman endpoint bar, and press Send.
+
 - [x] Can update store information :tada:
+
+`Request on PUT Endpoint`
+Here, we have one `API` which is used to `update a store`:
 Use the `postman` to test API.
--`POST`
+
+-`PUT`
 ```sh
-  localhost:8080/tokonyadia/store
+  localhost:8080/tokonyadia/store/{id}
 ```
-- [x] Can do store search by store name, address, phone number :tada:
-Use the `postman` to test API.
--`POST`
-```sh
-  localhost:8080/tokonyadia/store
-```
+
+Enter the `URL` in the postman endpoint bar, and press Send.
+
+- [ ] Can do store search by store name, address, phone number #739
+
