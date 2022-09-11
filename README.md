@@ -3,8 +3,7 @@ In an Ecommerce start-up, Tokonyadia, you work as a Backend Developer. Tokonyadi
 
 > # API
 > Use the `postman` to test API.
-
-
+>> ##
 >> - [x] 1. Can register a store with information on store name, store address, phone number, SIUP number, and NPWP :tada:
 
 `Request on POST Endpoint`
