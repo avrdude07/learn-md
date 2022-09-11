@@ -6,6 +6,7 @@ In an Ecommerce start-up, Tokonyadia, you work as a Backend Developer. Tokonyadi
 
 
 - [x] Can register a store with information on store name, store address, phone number, SIUP number, and NPWP :tada:
+
 `Request on POST Endpoint`
 Here, we have one `API` which is used to `register` a new `store`:
 Use the `postman` to test API.
@@ -16,6 +17,7 @@ Use the `postman` to test API.
 ```
 
 Enter the `URL` in the postman endpoint bar, and press Send.
+
 `Now in the Body tab, select raw and select JSON as the format type from the drop-down menu`
 
 -`BODY`
