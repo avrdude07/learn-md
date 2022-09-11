@@ -5,7 +5,7 @@ In an Ecommerce start-up, Tokonyadia, you work as a Backend Developer. Tokonyadi
 > Use the `postman` to test API.
 
 
-- [x] Can register a store with information on store name, store address, phone number, SIUP number, and NPWP :tada:
+- [x] ## Can register a store with information on store name, store address, phone number, SIUP number, and NPWP :tada:
 
 `Request on POST Endpoint`
 Here, we have one `API` which is used to `register` a new `store`:
@@ -66,5 +66,5 @@ Use the `postman` to test API.
 
 Enter the `URL` in the postman endpoint bar, and press Send.
 
-- [ ] Can do store search by store name, address, phone number #739
+- [x] Can do store search by store name, address, phone number #739
 
