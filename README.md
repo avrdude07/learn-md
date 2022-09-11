@@ -4,8 +4,8 @@ In an Ecommerce start-up, Tokonyadia, you work as a Backend Developer. Tokonyadi
 > # API
 > Use the `postman` to test API.
 
-
-- [x] ## Can register a store with information on store name, store address, phone number, SIUP number, and NPWP :tada:
+##
+- [x] 1. Can register a store with information on store name, store address, phone number, SIUP number, and NPWP :tada:
 
 `Request on POST Endpoint`
 Here, we have one `API` which is used to `register` a new `store`:
@@ -26,8 +26,8 @@ Enter the `URL` in the postman endpoint bar, and press Send.
   
   }
 ```
-
-- [x] Can display a list of existing stores :tada:
+##
+- [x] 2. Can display a list of existing stores :tada:
 
 `Request on GET Endpoint`
 Here, we have one `API` which is used to `get all list of store`:
@@ -39,8 +39,8 @@ Use the `postman` to test API.
 ```
 
 Enter the `URL` in the postman endpoint bar, and press Send.
-
-- [x] Can delete shop :tada:
+##
+- [x] 3. Can delete shop :tada:
 
 `Request on DELETE Endpoint`
 Here, we have one `API` which is used to `delete a strore`:
@@ -52,8 +52,8 @@ Use the `postman` to test API.
 ```
 
 Enter the `URL` in the postman endpoint bar, and press Send.
-
-- [x] Can update store information :tada:
+##
+- [x] 4. Can update store information :tada:
 
 `Request on PUT Endpoint`
 Here, we have one `API` which is used to `update a store`:
@@ -65,6 +65,6 @@ Use the `postman` to test API.
 ```
 
 Enter the `URL` in the postman endpoint bar, and press Send.
-
-- [x] Can do store search by store name, address, phone number #739
+##
+- [x] 5. Can do store search by store name, address, phone number #739
 
